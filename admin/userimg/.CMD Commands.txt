@@ -1,0 +1,24 @@
+systeminfo
+vol
+ver
+date
+date /t
+time
+time /t
+d:
+dir
+cd songs
+cd..
+mkdir
+type num > cmd.txt
+ren cmd.txt demo.txt
+notepad cmd.txt
+copy cmd.txt demo.txt
+del demo.txt
+move style.css css
+cls
+cd../..
+type cmd.txt
+rmdir css
+ping google.com
+ipconfig /all
